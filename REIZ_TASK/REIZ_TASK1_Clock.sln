@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REIZ_TASK1_Clock", "REIZ_TASK1_Clock.csproj", "{18160C50-9388-4273-8E50-539F59C4806D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3_recursion", "Task3_recursion\Task3_recursion.csproj", "{2F5EE7A9-57C5-41A2-A084-0002B03E9EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18160C50-9388-4273-8E50-539F59C4806D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18160C50-9388-4273-8E50-539F59C4806D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18160C50-9388-4273-8E50-539F59C4806D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18160C50-9388-4273-8E50-539F59C4806D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F5EE7A9-57C5-41A2-A084-0002B03E9EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F5EE7A9-57C5-41A2-A084-0002B03E9EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F5EE7A9-57C5-41A2-A084-0002B03E9EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F5EE7A9-57C5-41A2-A084-0002B03E9EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1245407E-6543-4B2D-886D-22FC0243023E}
+	EndGlobalSection
+EndGlobal

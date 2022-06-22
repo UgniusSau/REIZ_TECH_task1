@@ -1,0 +1,7 @@
+C:\Users\ugniu\Desktop\REIZ_TASK1_Clock\Task3_recursion\bin\Debug\Task3_recursion.exe.config
+C:\Users\ugniu\Desktop\REIZ_TASK1_Clock\Task3_recursion\bin\Debug\Task3_recursion.exe
+C:\Users\ugniu\Desktop\REIZ_TASK1_Clock\Task3_recursion\bin\Debug\Task3_recursion.pdb
+C:\Users\ugniu\Desktop\REIZ_TASK1_Clock\Task3_recursion\obj\Debug\Task3_recursion.csproj.CoreCompileInputs.cache
+C:\Users\ugniu\Desktop\REIZ_TASK1_Clock\Task3_recursion\obj\Debug\Task3_recursion.exe
+C:\Users\ugniu\Desktop\REIZ_TASK1_Clock\Task3_recursion\obj\Debug\Task3_recursion.pdb
+C:\Users\ugniu\Desktop\REIZ_TASK1_Clock\Task3_recursion\obj\Debug\Task3_recursion.csproj.AssemblyReference.cache

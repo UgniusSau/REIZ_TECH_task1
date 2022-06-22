@@ -1,0 +1,7 @@
+C:\Users\ugniu\Desktop\REIZ_TASK1_Clock\bin\Debug\REIZ_TASK1_Clock.exe.config
+C:\Users\ugniu\Desktop\REIZ_TASK1_Clock\bin\Debug\REIZ_TASK1_Clock.exe
+C:\Users\ugniu\Desktop\REIZ_TASK1_Clock\bin\Debug\REIZ_TASK1_Clock.pdb
+C:\Users\ugniu\Desktop\REIZ_TASK1_Clock\obj\Debug\REIZ_TASK1_Clock.csproj.AssemblyReference.cache
+C:\Users\ugniu\Desktop\REIZ_TASK1_Clock\obj\Debug\REIZ_TASK1_Clock.csproj.CoreCompileInputs.cache
+C:\Users\ugniu\Desktop\REIZ_TASK1_Clock\obj\Debug\REIZ_TASK1_Clock.exe
+C:\Users\ugniu\Desktop\REIZ_TASK1_Clock\obj\Debug\REIZ_TASK1_Clock.pdb
